@@ -11,6 +11,7 @@ To dos:
 -Images need to be uniform. - This lines up the next/ previous buttons
 -Fix a bug with double next/prev buttons?- DONE
 -Fix next/prev buttons onto the images
+-Initial product link on start- Popular picks etc
 -Catchy captions for each image.
 -Brief (but enticing!) product descriptions.
 -Affiliate links for the products on offer.
